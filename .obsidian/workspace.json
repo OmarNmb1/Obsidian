@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b4ab35afd8f8570",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fb5ba66666932d5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f10787a74bcd38ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "93101f676f4a53f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fcb01d98cd049de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "0664b4c14c8a40cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "42e74dcde410f1c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f411e2761bc09d1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "92fee0f24f8b0263",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36bcd8d9230cd516",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plan de Acción Laboratorio 5 SQE Grupo 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Plan de Acción Laboratorio 5 SQE Grupo 4"
+            }
+          },
+          {
+            "id": "6dcc48777d09cdeb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d07491e6204da8bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2dfbd6ad7cad2062",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2daf32039bf7c0ec",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "bcee7fb2674762d3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "zk-prefixer:Crear nueva nota única": false,
+      "audio-recorder:Iniciar/Detener la grabación": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "publish:Publicar cambios": false
+    }
+  },
+  "active": "6fb5ba66666932d5",
+  "lastOpenFiles": [
+    "Sin título.base",
+    "Redes/Actividad en Clase.md",
+    "SGT/Complementarios.md",
+    "SGT/Checklist.md",
+    "Personal/ToDo List.md",
+    "SGT/Incidentes.md",
+    "ESP4/3.1 Discussion.md",
+    "ESP4",
+    "Personal",
+    "SGT/Planeación Operativa.md",
+    "SGT/Visitas a SV.md",
+    "SGT/Reincidencias SLP.md",
+    "SGT/Semaforo.md",
+    "SGT/Cancelaciones.md",
+    "SGT/Validación.md",
+    "SGT/Plantillas Sol Arcos.md",
+    "SGT/SLPA.md",
+    "SGT/Tks DHI.md",
+    "SGT/Tks Villagran.md",
+    "SGT/Validacion Fuentes.md",
+    "SGT/Plantillas Seguritech.md",
+    "Redes",
+    "Redes/Redes CN1 Actividad 2.md",
+    "Redes/Pasted image 20250904161814.png",
+    "Redes/Pasted image 20250904161733.png",
+    "Progra 3/Clase 1.md",
+    "Progra 3/LabS6.md",
+    "SGT/Solicitud CAD-W.md",
+    "SQE/Plan de Acción Laboratorio 5 SQE Grupo 4.md",
+    "SGT/TKs Cortazar.md",
+    "SQE/Canvas BOT Python Grades.md",
+    "SQE/Pasted image 20250730161500.png",
+    "SQE/Pasted image 20250730160100.png",
+    "SQE",
+    "Algoritmos/Pasted image 20250707150952.png",
+    "SGT",
+    "SGT.zip",
+    "SGT 1",
+    "Algoritmos/IMG/Pasted image 20250707150235.png",
+    "Algoritmos/IMG",
+    "Algoritmos/IMG/Pasted image 20250707150156.png",
+    "Progra 3/IMG/Pasted image 20250707125105.png",
+    "Algoritmos",
+    "Progra 3/IMG/Pasted image 20250707125030.png",
+    "Progra 3/IMG",
+    "Progra 3/IMG/Pasted image 20250707130956.png"
+  ]
+}

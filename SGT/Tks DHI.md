@@ -1,0 +1,11 @@
+-Tecnología / Posición: 
+-Incidencia / Petición reportada: 
+-Diagnóstico del Incidente (si aplica):  
+-Acciones / Trabajos Realizados: 
+-Estatus de la Atención: 
+
+-Tecnología / Posición: GTO-VVU-DOHI-018
+-Incidencia / Petición reportada: La cámara C5i14U018P PTZ está presentando dificultades al tratar de realizar maniobras con los controles o tarda mucho tiempo en reaccionar o se "va" de más al lugar donde se desea colocarla
+-Diagnóstico del Incidente (si aplica):  El operador reporta retardo en la respuesta de la cámara al ejecutar maniobras de movimiento.
+-Acciones / Trabajos Realizados:  Se ingresa al radio para validar comunicación, se ingresa al switch y se realizan configuraciones en la velocidad del puerto, se ingresa a la cámara vía web y se verifica que los ajustes sean correctos. Se deja funcionando correctamente.
+-Estatus de la Atención:  Funcionando correctamente.

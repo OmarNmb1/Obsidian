@@ -1,0 +1,2 @@
+Se trata de un programa en Python, que consulta mis calificaciones de canvas desde https://Ims.jala.university , envia un resumen de las calificaciones cada dia a las 10:00 am a traves de un mensaje por telegram, hay que crear un bot, se desarrollara con Python 3, el token de acceso de canvas es   
+rzFhcCLDTJk39GCcBZcA24DayFxau7DN4BL4uFQN8GawnBEztMXVJ8mUmFV7E7Hu
