@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0b4ab35afd8f8570",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "6fb5ba66666932d5",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SGT/Checklist.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Checklist"
             }
           }
         ]
@@ -178,6 +182,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
       "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
@@ -185,26 +191,24 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
-      "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false,
       "zk-prefixer:Crear nueva nota única": false,
       "audio-recorder:Iniciar/Detener la grabación": false,
       "workspaces:Gestionar disposiciones de espacio de trabajo": false,
       "markdown-importer:Abrir el importador de Markdown": false,
-      "publish:Publicar cambios": false
+      "publish:Publicar cambios": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "6fb5ba66666932d5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "SGT/Checklist.md",
     "Sin título.base",
     "Redes/Actividad en Clase.md",
     "SGT/Complementarios.md",
-    "SGT/Checklist.md",
     "Personal/ToDo List.md",
     "SGT/Incidentes.md",
     "ESP4/3.1 Discussion.md",
@@ -245,7 +249,6 @@
     "Progra 3/IMG/Pasted image 20250707125105.png",
     "Algoritmos",
     "Progra 3/IMG/Pasted image 20250707125030.png",
-    "Progra 3/IMG",
     "Progra 3/IMG/Pasted image 20250707130956.png"
   ]
 }
