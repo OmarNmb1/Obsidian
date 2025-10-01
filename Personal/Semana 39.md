@@ -12,8 +12,8 @@ Nothing
 - [x] Base del laboratorio 4 REDES ✅ 2025-09-25
 
 ## Jueves
-- [ ]  ESP4 4.1 Discussion Video
-- [ ] CN1 3.4 Tareas
+- [x] ESP4 4.1 Discussion Video ✅ 2025-09-30
+- [x] CN1 3.4 Tareas ✅ 2025-09-30
 
 ## Viernes
-- [ ]  CN1 Laboratorio Semana 4
+- [x] CN1 Laboratorio Semana 4 ✅ 2025-09-30
