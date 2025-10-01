@@ -2,12 +2,17 @@
 
 
 ### <font color="#00b050">Martes</font>
-- [ ] ESP 4 - 5.1 Disccussion
+- [x] ESP 4 - 5.1 Disccussion ✅ 2025-10-01
 - [ ] ESP 4 - Quiz 5
-- [ ] CN1 4.2 Foro de discusión y respuesta
+- [x] CN1 4.2 Foro de discusión y respuesta ✅ 2025-10-01
 
 ### <font color="#e36c09">Miercoles</font>
 
 - [ ]  CN1 Evaluación 4
 - [ ] CN1 4.4 Tareas
+
+### <font color="#e36c09">Jueves</font>
+
+- [ ] ESP 4 - 5.3 Assigment
+- [ ] CN1 - Esqueleto del laboratorio
 
