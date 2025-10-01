@@ -7,7 +7,6 @@
   "dataview",
   "editing-toolbar",
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
   "homepage",
   "obsidian-hover-editor",
   "obsidian-icon-folder",
@@ -21,5 +20,6 @@
   "obsidian-style-settings",
   "tag-wrangler",
   "obsidian-tasks-plugin",
-  "obsidian-text-format"
+  "obsidian-text-format",
+  "obsidian-git"
 ]
