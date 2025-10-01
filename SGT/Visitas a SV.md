@@ -1,6 +1,6 @@
 Semana 25-29 de agosto
 
-- [x] CONTRERAS AMEZQUITA SERGIO ✅ 2025-08-29
+- [ ] CONTRERAS AMEZQUITA SERGIO
 - Lunes - Moroleon Uriangato
 -  Viernes Jaral del Progreso
 - [x] GUERRERO GUERRA NAHALIEL ABISAI ✅ 2025-08-29
@@ -22,7 +22,7 @@ Semana 25-29 de agosto
 
 
 
-1. CONTRERAS AMEZQUITA SERGIO --> Jaral del Progreso
+1. CONTRERAS AMEZQUITA SERGIO --> MOROLEON - URIANGATO
 2. GUZMAN BECERRILL JONATHAN --> Comonfort
 3. HERNANDEZ CHAVEZ CLEMENTE LEONARDO --> Tarimoro / Maravatío
 4. VIERNE

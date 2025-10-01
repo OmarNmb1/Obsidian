@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SGT/Checklist.md",
+                "file": "SGT/Planeación Operativa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checklist"
+              "title": "Planeación Operativa"
             }
           }
         ]
@@ -203,24 +203,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3fcb01d98cd049de",
   "lastOpenFiles": [
+    "Past",
+    "SGT/Plantillas Sol Arcos.md",
     "SGT/Checklist.md",
+    "SGT/Visitas a SV.md",
+    "SGT/Planeación Operativa.md",
+    "Personal/Semana 40.md",
+    "Personal/Semana 39.md",
     "Sin título.base",
     "Redes/Actividad en Clase.md",
     "SGT/Complementarios.md",
-    "Personal/ToDo List.md",
     "SGT/Incidentes.md",
-    "ESP4/3.1 Discussion.md",
-    "ESP4",
+    "Past/ESP4/3.1 Discussion.md",
+    "Past/ESP4",
     "Personal",
-    "SGT/Planeación Operativa.md",
-    "SGT/Visitas a SV.md",
     "SGT/Reincidencias SLP.md",
     "SGT/Semaforo.md",
     "SGT/Cancelaciones.md",
     "SGT/Validación.md",
-    "SGT/Plantillas Sol Arcos.md",
     "SGT/SLPA.md",
     "SGT/Tks DHI.md",
     "SGT/Tks Villagran.md",
@@ -230,25 +232,24 @@
     "Redes/Redes CN1 Actividad 2.md",
     "Redes/Pasted image 20250904161814.png",
     "Redes/Pasted image 20250904161733.png",
-    "Progra 3/Clase 1.md",
-    "Progra 3/LabS6.md",
+    "Past/Progra 3/Clase 1.md",
+    "Past/Progra 3/LabS6.md",
     "SGT/Solicitud CAD-W.md",
-    "SQE/Plan de Acción Laboratorio 5 SQE Grupo 4.md",
+    "Past/SQE/Plan de Acción Laboratorio 5 SQE Grupo 4.md",
     "SGT/TKs Cortazar.md",
-    "SQE/Canvas BOT Python Grades.md",
-    "SQE/Pasted image 20250730161500.png",
-    "SQE/Pasted image 20250730160100.png",
-    "SQE",
-    "Algoritmos/Pasted image 20250707150952.png",
+    "Past/SQE/Pasted image 20250730161500.png",
+    "Past/SQE/Pasted image 20250730160100.png",
+    "Past/SQE",
+    "Past/Algoritmos/Pasted image 20250707150952.png",
     "SGT",
     "SGT.zip",
     "SGT 1",
-    "Algoritmos/IMG/Pasted image 20250707150235.png",
-    "Algoritmos/IMG",
-    "Algoritmos/IMG/Pasted image 20250707150156.png",
-    "Progra 3/IMG/Pasted image 20250707125105.png",
-    "Algoritmos",
-    "Progra 3/IMG/Pasted image 20250707125030.png",
-    "Progra 3/IMG/Pasted image 20250707130956.png"
+    "Past/Algoritmos/IMG/Pasted image 20250707150235.png",
+    "Past/Algoritmos/IMG",
+    "Past/Algoritmos/IMG/Pasted image 20250707150156.png",
+    "Past/Progra 3/IMG/Pasted image 20250707125105.png",
+    "Past/Algoritmos",
+    "Past/Progra 3/IMG/Pasted image 20250707125030.png",
+    "Past/Progra 3/IMG/Pasted image 20250707130956.png"
   ]
 }
